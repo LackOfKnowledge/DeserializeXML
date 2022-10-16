@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPracownik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pracownik>
+    <Name>Bernie</Name>
+    <SecondName>Barbarossa</SecondName>
+    <Age>25</Age>
+    <JoiningDate>2022-10-16T20:09:00.352628+02:00</JoiningDate>
+    <IsEngineer>true</IsEngineer>
+  </Pracownik>
+  <Pracownik>
+    <Name>Katarzyna</Name>
+    <SecondName>Katarzyńska</SecondName>
+    <Age>29</Age>
+    <JoiningDate>2022-10-16T20:09:00.352642+02:00</JoiningDate>
+    <IsEngineer>false</IsEngineer>
+  </Pracownik>
+  <Pracownik>
+    <Name>Zbigniew</Name>
+    <SecondName>Wodecki</SecondName>
+    <Age>70</Age>
+    <JoiningDate>2022-10-16T20:09:00.3526426+02:00</JoiningDate>
+    <IsEngineer>true</IsEngineer>
+  </Pracownik>
+</ArrayOfPracownik>

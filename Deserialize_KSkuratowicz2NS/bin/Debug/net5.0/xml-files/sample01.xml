@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pracownik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Bernie</Name>
+  <SecondName>Barbarossa</SecondName>
+  <Age>25</Age>
+  <JoiningDate>2022-10-16T20:08:02.2992155+02:00</JoiningDate>
+  <IsEngineer>true</IsEngineer>
+</Pracownik>
